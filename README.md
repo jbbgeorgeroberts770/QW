@@ -1,7 +1,6 @@
 
 
 
-<!DOCTYPE html>
 <html>
 
 
@@ -98,4 +97,3 @@
 
 
 
-</html>
